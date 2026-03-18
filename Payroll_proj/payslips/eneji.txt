@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 243
+====================
+Name of Staff: eneji
+Hours Worked: 11
+
+Basic Pay: $550.00
+Allowance: $0.00
+
+====================
+Total Pay: $550.00
+====================

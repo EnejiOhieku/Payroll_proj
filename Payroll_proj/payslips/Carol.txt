@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 243
+====================
+Name of Staff: Carol
+Hours Worked: 1413
+
+Basic Pay: $42390.00
+Overtime: $19421.50
+
+====================
+Total Pay: $61811.50
+====================

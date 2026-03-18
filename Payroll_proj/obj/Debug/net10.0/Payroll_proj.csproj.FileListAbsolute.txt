@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\Payroll_proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\Payroll_proj.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\Payroll_proj.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\Payroll_proj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\bin\Debug\net10.0\Payroll_proj.exe
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\bin\Debug\net10.0\Payroll_proj.deps.json
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\bin\Debug\net10.0\Payroll_proj.runtimeconfig.json
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\bin\Debug\net10.0\Payroll_proj.dll
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\bin\Debug\net10.0\Payroll_proj.pdb
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\Payroll_proj.dll
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\refint\Payroll_proj.dll
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\Payroll_proj.pdb
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\Payroll_proj.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Payroll_proj\Payroll_proj\obj\Debug\net10.0\ref\Payroll_proj.dll

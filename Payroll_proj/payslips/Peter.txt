@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 243
+====================
+Name of Staff: Peter
+Hours Worked: 12421
+
+Basic Pay: $621050.00
+Allowance: $1000.00
+
+====================
+Total Pay: $622050.00
+====================

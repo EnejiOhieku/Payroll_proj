@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 243
+====================
+Name of Staff: Yvonne
+Hours Worked: 123
+
+Basic Pay: $6150.00
+Allowance: $0.00
+
+====================
+Total Pay: $6150.00
+====================

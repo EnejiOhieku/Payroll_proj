@@ -1,0 +1,11 @@
+PAYSLIP FOR JAN 243
+====================
+Name of Staff: John
+Hours Worked: 12123
+
+Basic Pay: $363690.00
+Overtime: $185426.50
+
+====================
+Total Pay: $549116.50
+====================
